@@ -58,6 +58,7 @@ footer {
     justify-content: center;
     font-weight: bold;
     margin: 100px 0px 5px 0px;
+    position: bottom;
 }
 
 /* Der over er footer */
