@@ -148,13 +148,6 @@ footer {
         margin: 130px 40px 0px 40px;
     }
 
-    footer {
-        display: flex;
-        justify-content: center;
-        font-weight: bold;
-        margin: 100px 0px 5px 0px;
-    }
-
 }
 
 @media (max-width: 780px) {
@@ -200,13 +193,6 @@ footer {
 
     .mangebilder6 {
         margin: 130px 40px 0px 40px;
-    }
-
-    footer {
-        display: flex;
-        justify-content: center;
-        font-weight: bold;
-        margin: 100px 0px 5px 0px;
     }
 
 }
